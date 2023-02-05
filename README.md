@@ -19,13 +19,13 @@ h1{
 ```
 
 ## @import
-<p>index.html</p>
+index.html
 ![Logo](https://i.ibb.co/MP9Zyq4/scss-import-index.png)
-<p>imported files</p>
+imported files
 ![Logo](https://i.ibb.co/qxCZ3mH/Screenshot-20230205-125210.png)
-<p>main.scss</p>
+main.scss
 ![Logo](https://i.ibb.co/9wDNdv9/scss-import-main.png)
-<p>main.css</p>
+main.css
 ![Logo](https://i.ibb.co/wyPXFCy/scss-import-main-css.png)
 
 
@@ -35,6 +35,6 @@ h1{
 
 ## @mixin @include
 ![Logo](https://i.ibb.co/ZJzhzcB/mixin-include.png)
-<p>mixin works like a function and include is used to call that function</p>
-<p>here is the result of mixin and include:</p>
+mixin works like a function and include is used to call that function
+here is the result of mixin and include:
 ![Logo](https://i.ibb.co/8jq1LPz/Screenshot-20230205-013938.png)
