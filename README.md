@@ -38,3 +38,7 @@ main.css<br/>
 mixin works like a function and include is used to call that function<br/>
 here is the result of mixin and include:<br/>
 ![Logo](https://i.ibb.co/8jq1LPz/Screenshot-20230205-013938.png)<br/>
+
+## @extend
+extend and placeholder <br/>
+![Logo](https://i.ibb.co/5kMZxrH/Screenshot-20230205-072503.png) <br/>
